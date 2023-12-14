@@ -10,5 +10,11 @@
 	"permissions": [
 		"scripting",
 		"activeTab"
-	]
+	], 
+	"browser_specific_settings": {
+	  "gecko": {
+		"id": "videoeditor@agden",
+		"strict_min_version": "42.0"
+	  }
+	}
 }
